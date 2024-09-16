@@ -1,4 +1,4 @@
-# Customer-Support-Chatbot
+# Customer Support Chatbot
 
 This project demonstrates how to build a customer support chatbot using the Llama 2 model and a pre-defined FAQ dataset. The chatbot is designed to handle common customer queries, providing answers from a pre-existing dataset or generating new responses using a powerful language model if the question is not available in the dataset.
 
